@@ -2,8 +2,8 @@
 
 ## Team Members: zaali2, aswar3, shyammt2, bchang
 
-## Video Presentation
-The video presentation for this project can be found here: [Here](https://www.youtube.com/watch?v=dO5oO-4xMm0)
+## Presentation
+The presentation slides for this project can be found here: [Here](https://docs.google.com/presentation/d/1B-HkMmXFBjM5pMXihCSxf367tfDhvXOkyy9EZ0eXYow/edit#slide=id.g1b4f666855f_0_138)
 
 ## Introduction
 This goal of this project was to use the Stanford English Wikipedia Hyperlink Network dataset to create a related topics recommendation tool capable of giving recommended articles similar to an input of either 1 or 2 articles. The following algorithms were used to generate the related topics:
