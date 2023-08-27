@@ -2,7 +2,7 @@
 
 ## Team Members: zaali2, aswar3, shyammt2, bchang
 
-## Presentation
+## Results
 The presentation slides for this project can be found here: [Here](https://docs.google.com/presentation/d/1B-HkMmXFBjM5pMXihCSxf367tfDhvXOkyy9EZ0eXYow/edit#slide=id.g1b4f666855f_0_138)
 
 ## Introduction
